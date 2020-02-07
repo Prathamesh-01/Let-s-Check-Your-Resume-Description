@@ -4,8 +4,13 @@
 
 ## Steps to check the comparison of your Resume 
 1. Open .ipynb file and click on colab and run All the cells, by clicking this.
+
+![Just Some Description](https://github.com/Prathamesh-01/Let-s-Check-Your-Resume-Description/blob/master/Annotation%202020-02-08%20003739.png)
+
 2. After that, you will see this, in the first upload, paste your job description(Note: To import docx file only)
+
 3. In the second upload section, import your resume.
+
 4. And Kaboom, you will get to know how much your resume matches to job description -> ;) I Know mine won't 
 
 ## Ceratin Steps I would consider next time.
